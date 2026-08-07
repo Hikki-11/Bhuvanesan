@@ -2,138 +2,185 @@
 
 # Hi 👋, I'm Bhuvanesan N
 
-### 💻 Software Developer | ☕ Java Backend Developer | 🚀 Spring Boot Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Backend+Developer;Spring+Boot+Developer;REST+API+Developer;AI+%26+IoT+Explorer;Always+Learning+New+Technologies" />
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
-
-<p>
-<a href="https://www.linkedin.com/in/bhuvanesan-n"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Hikki-11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://leetcode.com/u/BHUVANESASN_N/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://bhuvi-s-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
-<a href="mailto:bhuvanesan.n@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+### Software Developer | Java Backend Developer | Spring Boot | REST APIs
 
 </div>
 
 ---
 
-## 💫 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering Undergraduate
-- ☕ Passionate about **Java Backend Development**
-- 🚀 Building scalable applications using **Spring Boot, REST APIs & Hibernate**
-- 🗄️ Experienced with **MySQL** and **MongoDB**
-- 🤖 Exploring **AI, Machine Learning & IoT**
-- 🌱 Currently learning **Docker, AWS, Microservices & System Design**
-- 🧩 Solved **170+ LeetCode Problems**
-- 💼 Open to **Software Development Internship** opportunities
+- 💻 I'm a **Software Developer** passionate about building scalable backend applications using **Java** and **Spring Boot**.
+
+- 🚀 I enjoy designing REST APIs, solving real-world problems, and developing database-driven applications.
+
+- 🤖 Interested in **Artificial Intelligence, IoT, and Backend Development**.
+
+- 🌱 Currently learning **Docker, AWS, System Design, Microservices, and Spring Security**.
+
+- 🤝 Open to collaborating on backend development, Java, Spring Boot, AI, and IoT projects.
+
+- ⚡ Fun Fact: **I enjoy solving coding challenges and continuously improving my problem-solving skills.**
 
 ---
 
-## 🚀 Tech Stack
+## 🌐 Connect With Me
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhuvanesan-n" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/Hikki-11" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://leetcode.com/u/BHUVANESASN_N/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+<a href="https://bhuvi-s-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
 </p>
 
-### Backend & Database
-<p>
-<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-</p>
+---
 
-### Tools
+# 🛠 Tech Stack
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea,eclipse"/>
-<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake"/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,python,cpp,html,css,javascript,bootstrap,git,github,maven,postman,vscode,idea,eclipse,docker,aws"/>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎓 Course Registration System
-> Full-stack web application for managing course registration with secure authentication and CRUD operations.
+## 🎓 Course Registration System
 
-**Tech:** HTML • CSS • JavaScript • Java • Spring Boot • Hibernate • MySQL
+A full-stack course registration platform that enables students and administrators to manage courses efficiently with secure authentication and CRUD operations.
 
----
+**Tech Stack**
 
-### 🤖 Digital AI Twin
-> AI-powered Digital Twin using IoT data for smart monitoring and prediction.
+`HTML` `CSS` `JavaScript` `Java` `Spring Boot` `Hibernate` `MySQL`
 
-**Tech:** Python • AI/ML • IoT
+Live Demo: *Coming Soon*
 
----
-
-### 👨‍💼 Employee Management System
-> CRUD application for managing employee records with a responsive interface.
-
-**Tech:** HTML • CSS • SQL
+Repository: *Coming Soon*
 
 ---
 
-### 🔬 Micro Failure Whisperer *(Ongoing)*
-> AI-powered predictive maintenance using sensor and vibration data.
+## 🤖 Digital AI Twin
+
+AI-powered Digital Twin for monitoring and predicting real-time urban infrastructure using IoT sensor data.
+
+**Tech Stack**
+
+`Python` `AI/ML` `IoT`
+
+Live Demo: Coming Soon
+
+Repository: Coming Soon
 
 ---
 
-### 🌿 Digital Smell *(Ongoing)*
-> Embedded AI system for intelligent gas leakage detection.
+## 👨‍💼 Employee Management System
+
+A responsive CRUD application for efficiently managing employee records.
+
+**Tech Stack**
+
+`HTML` `CSS` `SQL`
+
+Live Demo: Coming Soon
+
+Repository: Coming Soon
 
 ---
 
-### 📄 ScriptGuard AI *(Ongoing)*
-> OCR-powered document scanning and verification platform.
+## 🔬 Micro Failure Whisperer *(Ongoing)*
+
+AI-powered predictive maintenance system for detecting machine failures using sensor and vibration data.
+
+**Tech Stack**
+
+`Python` `Machine Learning`
 
 ---
 
-## 📊 GitHub Analytics
+## 🌿 Digital Smell *(Ongoing)*
+
+Embedded AI-based gas leakage detection system for industrial safety.
+
+**Tech Stack**
+
+`IoT` `Embedded AI`
+
+---
+
+## 📄 ScriptGuard AI *(Ongoing)*
+
+OCR-powered intelligent document scanning and verification platform.
+
+**Tech Stack**
+
+`Python` `OCR` `Computer Vision`
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hikki-11&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hikki-11&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hikki-11&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
+
+---
+
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Hikki-11&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hikki-11&theme=tokyo-night"/>
-</p>
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hikki-11&theme=tokyonight&no-frame=true&margin-w=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hikki-11&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 🌱 Currently Working On
 
-- ☕ Advanced Java & Spring Boot
-- 🏗️ Backend Architecture
-- ☁️ AWS & Docker
-- 🔐 Spring Security
-- 📚 System Design
-- 🤝 Open Source Contributions
+- Building scalable backend applications with Spring Boot
+- Developing AI & IoT solutions
+- Enhancing Java backend development skills
+- Exploring cloud deployment and DevOps
 
 ---
 
-<div align="center">
+# 📚 Currently Learning
 
-<img src="https://komarev.com/ghpvc/?username=Hikki-11&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+- Docker
+- AWS
+- Spring Security
+- System Design
+- Microservices
+- Backend Architecture
 
-### 💬 Quote
+---
 
-*"Programs must be written for people to read, and only incidentally for machines to execute."*  
-**— Harold Abelson**
+# 🎯 Goals
 
-⭐ **Thanks for visiting my profile!**
+- Build production-ready backend applications
+- Contribute to Open Source
+- Master Spring Boot & Microservices
+- Learn Cloud Computing
+- Secure a Software Development Internship
 
-</div>
+---
+
+# 💡 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** — John Johnson
