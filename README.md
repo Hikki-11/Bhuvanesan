@@ -1,186 +1,200 @@
 <div align="center">
 
-# Hi 👋, I'm Bhuvanesan N
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00F7FF&height=220&section=header&text=Bhuvanesan%20N&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20REST%20APIs&descAlignY=55&descSize=18"/>
 
-### Software Developer | Java Backend Developer | Spring Boot | REST APIs
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems...;Spring+Boot+%2B+Java+%2B+REST+APIs;Exploring+AI+%2B+IoT+%2B+Cloud;Always+shipping%2C+always+learning" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/bhuvanesan-n" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Hikki-11" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/BHUVANESASN_N/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://bhuvi-s-portfolio.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hikki-11&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Hikki-11?style=for-the-badge&color=2C5364&labelColor=0F2027"/>
 
 </div>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gray-divider.gif">
 
-## 👨‍💻 About Me
+## 🧬 About Me
 
-- 💻 I'm a **Software Developer** passionate about building scalable backend applications using **Java** and **Spring Boot**.
+<img align="right" width="280" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/robot.gif">
 
-- 🚀 I enjoy designing REST APIs, solving real-world problems, and developing database-driven applications.
+```yaml
+name: Bhuvanesan N
+role: Software Developer
+focus: [Backend Development, Java, Spring Boot, REST APIs]
+interests: [Artificial Intelligence, IoT, System Design]
+currently_learning: [Docker, AWS, Spring Security, Microservices]
+open_to: Backend • Java • Spring Boot • AI • IoT collaborations
+fun_fact: "I enjoy solving coding challenges and leveling up my problem-solving skills ⚡"
+```
 
-- 🤖 Interested in **Artificial Intelligence, IoT, and Backend Development**.
+<br clear="right"/>
 
-- 🌱 Currently learning **Docker, AWS, System Design, Microservices, and Spring Security**.
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gray-divider.gif">
 
-- 🤝 Open to collaborating on backend development, Java, Spring Boot, AI, and IoT projects.
+## 🛠️ Tech Arsenal
 
-- ⚡ Fun Fact: **I enjoy solving coding challenges and continuously improving my problem-solving skills.**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/bhuvanesan-n" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/Hikki-11" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-<a href="https://leetcode.com/u/BHUVANESASN_N/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-<a href="https://bhuvi-s-portfolio.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,python,cpp,html,css,javascript,bootstrap,git,github,maven,postman,vscode,idea,eclipse,docker,aws&theme=dark&perline=10" />
 </p>
 
----
-
-# 🛠 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mongodb,python,cpp,html,css,javascript,bootstrap,git,github,maven,postman,vscode,idea,eclipse,docker,aws"/>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
----
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gray-divider.gif">
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎓 Course Registration System
+<table>
+<tr>
+<td width="50%">
 
-A full-stack course registration platform that enables students and administrators to manage courses efficiently with secure authentication and CRUD operations.
-
-**Tech Stack**
+### 🎓 Course Registration System
+Full-stack platform enabling students & admins to manage courses with secure auth and full CRUD operations.
 
 `HTML` `CSS` `JavaScript` `Java` `Spring Boot` `Hibernate` `MySQL`
 
-Live Demo: *Coming Soon*
+</td>
+<td width="50%">
 
-Repository: *Coming Soon*
-
----
-
-## 🤖 Digital AI Twin
-
-AI-powered Digital Twin for monitoring and predicting real-time urban infrastructure using IoT sensor data.
-
-**Tech Stack**
+### 🤖 Digital AI Twin
+AI-powered digital twin for monitoring & predicting real-time urban infrastructure via IoT sensor data.
 
 `Python` `AI/ML` `IoT`
 
-Live Demo: Coming Soon
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Repository: Coming Soon
-
----
-
-## 👨‍💼 Employee Management System
-
-A responsive CRUD application for efficiently managing employee records.
-
-**Tech Stack**
+### 👨‍💼 Employee Management System
+Responsive CRUD application for efficiently managing employee records.
 
 `HTML` `CSS` `SQL`
 
-Live Demo: Coming Soon
+</td>
+<td width="50%">
 
-Repository: Coming Soon
-
----
-
-## 🔬 Micro Failure Whisperer *(Ongoing)*
-
-AI-powered predictive maintenance system for detecting machine failures using sensor and vibration data.
-
-**Tech Stack**
+### 🔬 Micro Failure Whisperer <img src="https://img.shields.io/badge/WIP-2C5364?style=flat-square"/>
+AI-driven predictive maintenance system that detects machine failures from sensor & vibration data.
 
 `Python` `Machine Learning`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 🌿 Digital Smell *(Ongoing)*
-
-Embedded AI-based gas leakage detection system for industrial safety.
-
-**Tech Stack**
+### 🌿 Digital Smell <img src="https://img.shields.io/badge/WIP-2C5364?style=flat-square"/>
+Embedded AI-based gas leakage detection system built for industrial safety.
 
 `IoT` `Embedded AI`
 
----
+</td>
+<td width="50%">
 
-## 📄 ScriptGuard AI *(Ongoing)*
-
-OCR-powered intelligent document scanning and verification platform.
-
-**Tech Stack**
+### 📄 ScriptGuard AI <img src="https://img.shields.io/badge/WIP-2C5364?style=flat-square"/>
+OCR-powered intelligent document scanning & verification platform.
 
 `Python` `OCR` `Computer Vision`
 
----
+</td>
+</tr>
+</table>
 
-# 📊 GitHub Stats
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gray-divider.gif">
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hikki-11&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Hikki-11&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hikki-11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Hikki-11&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 </p>
-
----
-
-# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hikki-11&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hikki-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF"/>
 </p>
 
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Hikki-11&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
+</p>
 
-# 🌱 Currently Working On
+<div align="center">
 
-- Building scalable backend applications with Spring Boot
-- Developing AI & IoT solutions
-- Enhancing Java backend development skills
-- Exploring cloud deployment and DevOps
+### 📈 Contribution Graph
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hikki-11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff"/>
 
-# 📚 Currently Learning
+</div>
 
-- Docker
-- AWS
-- Spring Security
-- System Design
-- Microservices
-- Backend Architecture
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gray-divider.gif">
 
----
+## 🌱 Currently
 
-# 🎯 Goals
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- Build production-ready backend applications
-- Contribute to Open Source
-- Master Spring Boot & Microservices
-- Learn Cloud Computing
-- Secure a Software Development Internship
+**Building**
+- ⚙️ Scalable backend apps with Spring Boot
+- 🤖 AI & IoT solutions
+- ☁️ Cloud deployment & DevOps skills
 
----
+</td>
+<td valign="top" width="50%">
 
-# 💡 Favorite Quote
+**Learning**
+- 🐳 Docker
+- ☁️ AWS
+- 🔐 Spring Security
+- 🏗️ System Design & Microservices
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+</td>
+</tr>
+</table>
+
+## 🎯 Goals
+
+- 🏭 Ship production-ready backend applications
+- 🌍 Contribute to Open Source
+- 🍃 Master Spring Boot & Microservices
+- ☁️ Learn Cloud Computing
+- 🎓 Land a Software Development Internship
+
+<img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gray-divider.gif">
+
+<div align="center">
+
+### 💡 *"First, solve the problem. Then, write the code."*
+**— John Johnson**
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/handshake.gif" width="100"/>
+
+### Thanks for stopping by — let's build something cool together! 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:2C5364,100:0F2027&height=100&section=footer"/>
+
+</div>
